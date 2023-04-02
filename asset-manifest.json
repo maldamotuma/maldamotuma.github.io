@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1bf4efc.css",
+    "main.js": "/static/js/main.4891e6a6.js",
+    "static/js/787.d7f22c0c.chunk.js": "/static/js/787.d7f22c0c.chunk.js",
+    "static/media/hero-img.png": "/static/media/hero-img.2db6f5d3cd7c991b3092.png",
+    "static/media/port2.jpg": "/static/media/port2.6c3e383392afb018cf70.jpg",
+    "static/media/my-abou-us.png": "/static/media/my-abou-us.5c825f46c2b45546f552.png",
+    "static/media/port1.jpg": "/static/media/port1.a48436a96ffc3b01d4df.jpg",
+    "static/media/head_shoot.jpg": "/static/media/head_shoot.26333d245029808f939c.jpg",
+    "static/media/nodejs.svg": "/static/media/nodejs.cf2b4de6f517ce6f0c318e8c6a3ccad3.svg",
+    "static/media/Nextjs.svg": "/static/media/Nextjs.2e296d8e8f5b961cea3781c0d5fcfaf6.svg",
+    "index.html": "/index.html",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/Adobe_Photoshop.svg": "/static/media/Adobe_Photoshop.21b3c1e00213c9613773022511f98503.svg",
+    "static/media/Adobe_XD.svg": "/static/media/Adobe_XD.d42e60c4655af5aa02c5367d68ddafa1.svg",
+    "static/media/sqldb.svg": "/static/media/sqldb.efb7363b2e231ddf7a5c31626c04099d.svg",
+    "static/media/Laravel.svg": "/static/media/Laravel.d0cb2f2a087d322fda99dbfed23efe11.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/Adobe_Illustrator.svg": "/static/media/Adobe_Illustrator.da5e6f1d97707c10129a8174e75492d6.svg",
+    "static/media/Gatsbyjs.svg": "/static/media/Gatsbyjs.35b97fa1680dbb7dae4e4c996e9fb505.svg",
+    "static/media/socketio.svg": "/static/media/socketio.aa27363bb92247b80255c7bd11b30248.svg",
+    "static/media/Figma.svg": "/static/media/Figma.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
+    "static/media/expressjs.svg": "/static/media/expressjs.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.67761c18dd27879104c98bfc4930d459.svg",
+    "static/media/Chakra.svg": "/static/media/Chakra.ae828e5564981a051790af7b68005851.svg",
+    "static/media/arrow.svg": "/static/media/arrow.af18dc2dbed78ae0a038f33d45851442.svg",
+    "static/media/arrowangle.svg": "/static/media/arrowangle.958701d6853658175726c2e8e626bf0c.svg",
+    "static/media/leftArrow.svg": "/static/media/leftArrow.91d2430579b797c4c129355cd5e419c8.svg",
+    "static/media/rightArrow.svg": "/static/media/rightArrow.59b09c4d3023dc554bfa7bb1d398d68f.svg",
+    "static/media/js.svg": "/static/media/js.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/mui.svg": "/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.c1bf4efc.css.map": "/static/css/main.c1bf4efc.css.map",
+    "main.4891e6a6.js.map": "/static/js/main.4891e6a6.js.map",
+    "787.d7f22c0c.chunk.js.map": "/static/js/787.d7f22c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1bf4efc.css",
+    "static/js/main.4891e6a6.js"
+  ]
+}
