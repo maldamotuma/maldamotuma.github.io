@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve" width="1920"  height="1080" >
+<linearGradient id="Rectangle_886_1_" gradientUnits="userSpaceOnUse" x1="923.5162" y1="575.9667" x2="924.5214" y2="575.9667" gradientTransform="matrix(1920 0 0 -1080 -1773156 622584)">
+	<stop offset="0" style="stop-color:#060D4E"/>
+	<stop offset="1" style="stop-color:#0278E8"/>
+</linearGradient>
+<rect id="Rectangle_886" x="-5" y="-5" style="fill:url(#Rectangle_886_1_);" width="1930" height="1090"/>
+</svg>

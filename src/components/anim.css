@@ -1,0 +1,24 @@
+.pulse-anim::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 100px;
+    animation: pulsing 2s infinite;
+}
+
+@keyframes pulsing {
+    from {
+        box-shadow: 0 0 0 0 #0099ff;
+    }
+
+    50% {
+        box-shadow: 0 0 0 16px #0099ff00;
+    }
+
+    to {
+        box-shadow: 0 0 0 16px #0099ff00;
+    }
+}
