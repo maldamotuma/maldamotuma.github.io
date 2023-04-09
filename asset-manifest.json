@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c2120217.css",
-    "main.js": "/static/js/main.18c5cb43.js",
+    "main.js": "/static/js/main.225c4ecb.js",
     "static/js/787.d7f22c0c.chunk.js": "/static/js/787.d7f22c0c.chunk.js",
     "static/media/hero-img.png": "/static/media/hero-img.a0cf3edd46888b04494c.png",
-    "static/media/port2.jpg": "/static/media/port2.6c3e383392afb018cf70.jpg",
+    "static/media/arkwood.jpg": "/static/media/arkwood.cb1a08f312fb031553a9.jpg",
+    "static/media/harubuy.jpg": "/static/media/harubuy.043d53cab64a6e8dbcd0.jpg",
     "static/media/my-abou-us.png": "/static/media/my-abou-us.5c825f46c2b45546f552.png",
-    "static/media/port1.jpg": "/static/media/port1.a48436a96ffc3b01d4df.jpg",
+    "static/media/fitun.jpg": "/static/media/fitun.2fae20ffa675623007c8.jpg",
+    "static/media/wisdom.jpg": "/static/media/wisdom.0775d38cf964b0ff9c57.jpg",
     "static/media/head_shoot.jpg": "/static/media/head_shoot.26333d245029808f939c.jpg",
+    "static/media/resume builder.jpg": "/static/media/resume builder.5b7800d2a552e4e5d9d0.jpg",
     "static/media/nodejs.svg": "/static/media/nodejs.cf2b4de6f517ce6f0c318e8c6a3ccad3.svg",
     "static/media/Nextjs.svg": "/static/media/Nextjs.2e296d8e8f5b961cea3781c0d5fcfaf6.svg",
     "index.html": "/index.html",
@@ -31,11 +34,11 @@
     "static/media/js.svg": "/static/media/js.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/mui.svg": "/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
     "main.c2120217.css.map": "/static/css/main.c2120217.css.map",
-    "main.18c5cb43.js.map": "/static/js/main.18c5cb43.js.map",
+    "main.225c4ecb.js.map": "/static/js/main.225c4ecb.js.map",
     "787.d7f22c0c.chunk.js.map": "/static/js/787.d7f22c0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2120217.css",
-    "static/js/main.18c5cb43.js"
+    "static/js/main.225c4ecb.js"
   ]
 }
